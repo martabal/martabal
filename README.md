@@ -1,21 +1,14 @@
-### Hi 👋, I' Martin
+### Hi 👋, I'm Martin
+
+
+- 👀 I’m interested in hardware & software
+- 🇫🇷 I am from Paris 🇫🇷
+- ✨ Take a look at: [martinlabat.fr](https://martinlabat.fr)
+- 📫 How to reach me : **martin.labat92@gmail.com**
 
 
 
-- I am from Paris 🇫🇷
-- Check out [my website](https://martinlabat.fr)
-- 📫 How to reach me **martin.labat92@gmail.com**
+
 <!--
 **martabal/martabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
