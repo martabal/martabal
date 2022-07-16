@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in hardware & software
-- 🇫🇷  I am from Paris
+-  🇫🇷 I am from Paris
 - ✨ Take a look at: [martinlabat.fr](https://martinlabat.fr)
 - 📫 How to reach me : **martin.labat92@gmail.com**
 
