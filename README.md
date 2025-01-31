@@ -3,9 +3,9 @@
 -->
 # Hi 👋, I'm Martin
 
-- 👀 I’m interested in hardware & software
+- 👀 I'm interested in hardware & software
 - 🇫🇷 From Paris
-- 👨‍🎓 Engineering student
+- 🖥️ Engineer
 
 📈 **My GitHub Stats:**
 <div>
